@@ -104,5 +104,5 @@ I enjoy learning new things, regardless of the field. Currently, I am focused on
       height="195px" 
       align="left" 
       alt="GitHub Stats" 
-      height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pedro-M-Dorneles&layout=compact&hide_border=true&title_color=28a745&text_color=c9d1d9&bg_color=0d1117" />
+      height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro Machado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
