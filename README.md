@@ -75,8 +75,8 @@ I enjoy learning new things, regardless of the field. Currently, I am focused on
 />
 <img 
     align="left" 
-    alt="Pandas" 
-    title="Pandas"
+    alt="Numpy" 
+    title="Numpy"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
