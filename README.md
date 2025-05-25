@@ -91,18 +91,7 @@ I enjoy learning new things, regardless of the field. Currently, I am focused on
 ### 📊 Statistics
 
 
-<div align="center">  
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=Pedro-M-Dorneles&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en-us" /> 
-
-  
-  <img width="41%" 
-      height="195px" 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro Machado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-M-Dorneles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-M-Dorneles&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
