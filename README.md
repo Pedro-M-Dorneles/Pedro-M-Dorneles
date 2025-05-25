@@ -1,6 +1,7 @@
 # 👾 Pedro Machado
 
-Me chamo Pedro Machado Dorneles, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na Fundação Liberato Salzano Vieira da Cunha, com o curso técnico em Eletrônica. 
+Me chamo Pedro Machado Dorneles, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na Fundação Liberato Salzano Vieira da Cunha, com o curso técnico em Eletrônica.
+Estimo a aprender coisas novas sejá lá qual for a area. Atualmente estou focado em me aprofundar em Análise e Ciências de dados e em C# em conjunto com framework .Net
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedro-M-Dorneles&show_icons=true&count_private=true&hide_border=true&title_color=28a745&icon_color=28a745&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Machado github stats" /> 
