@@ -97,7 +97,7 @@ I enjoy learning new things, regardless of the field. Currently, I am focused on
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pedro-M-Dorneles&show_icons=true&count_private=true&hide_border=true&title_color=28a745&icon_color=28a745&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Machado github stats" /> 
+    src="https://github-readme-stats.vercel.app/api?username=Pedro-M-Dorneles&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> 
 
   
   <img width="41%" 
