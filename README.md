@@ -7,14 +7,14 @@ I enjoy learning new things, regardless of the field. Currently, I am focused on
 <p align="left">
    <a href="https://github.com/Pedro-M-Dorneles?tab=repositories">
         <img 
-            alt="Total de estrelas" 
+            alt="Total stars" 
             title="GitHub total stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/Pedro-M-Dorneles?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Pedro-M-Dorneles?tab=followers">
         <img 
-            alt="Seguidores" 
+            alt="Followers" 
             title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Pedro-M-Dorneles?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
